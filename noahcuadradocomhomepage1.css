@@ -2,7 +2,7 @@
   min-height: 100vh;
 }
 .noahcuadradocomhomepage1-noahcuadradocomhomepage1 {
-  width: 100%;
+  width: auto;
   height: 2661px;
   display: flex;
   overflow: hidden;
@@ -16,7 +16,7 @@
 .noahcuadradocomhomepage1-topbar {
   top: 0px;
   left: 0px;
-  width: 1440px;
+  width: 100%;
   display: flex;
   padding: 19px 0;
   position: absolute;
@@ -110,8 +110,10 @@
 }
 .noahcuadradocomhomepage1-imcontainer {
   top: 148px;
-  left: 445px;
+  left: 0px;
+  right: 0px;
   width: 550px;
+  margin: auto;
   display: flex;
   padding: 0 24px;
   position: absolute;
@@ -125,7 +127,7 @@
   width: 111px;
   height: auto;
   font-size: 48px;
-  align-self: auto;
+  align-self: center;
   font-style: Bold;
   text-align: left;
   font-family: Source Sans Pro;
@@ -141,7 +143,7 @@
   width: 264px;
   height: auto;
   font-size: 48px;
-  align-self: auto;
+  align-self: center;
   font-style: Bold;
   text-align: left;
   font-family: Source Sans Pro;
@@ -154,17 +156,21 @@
 }
 .noahcuadradocomhomepage1-image1 {
   top: 237px;
-  left: 445px;
+  left: 0px;
+  right: 0px;
   width: 545px;
   height: 371px;
+  margin: auto;
   position: absolute;
   border-color: transparent;
 }
 .noahcuadradocomhomepage1-mygames {
   top: 698px;
-  left: 160px;
+  left: 0px;
+  right: 0px;
   width: 1116px;
   height: 596px;
+  margin: auto;
   display: flex;
   padding: 0;
   position: absolute;
@@ -418,9 +424,11 @@
 }
 .noahcuadradocomhomepage1-mydesigns {
   top: 1428px;
-  left: 165px;
+  left: 0px;
+  right: 0px;
   width: 1110px;
   height: 596px;
+  margin: auto;
   display: flex;
   padding: 0;
   position: absolute;
@@ -663,7 +671,7 @@
 .noahcuadradocomhomepage1-footer {
   top: 2202px;
   left: 0px;
-  width: 1440px;
+  width: 100%;
   height: 459px;
   display: flex;
   padding: 40px 0;
@@ -871,4 +879,48 @@
   height: 1px;
   position: absolute;
   border-color: transparent;
+}
+@media(max-width: 1600px) {
+  .noahcuadradocomhomepage1-noahcuadradocomhomepage1 {
+    width: auto;
+    margin-right: 0px;
+  }
+  .noahcuadradocomhomepage1-mydesigns {
+    top: 1437px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .noahcuadradocomhomepage1-footer {
+    width: 100%;
+  }
+}
+@media(max-width: 1200px) {
+  .noahcuadradocomhomepage1-noahcuadradocomhomepage1 {
+    width: auto;
+  }
+  .noahcuadradocomhomepage1-topbar {
+    padding-left: 19px 0;
+  }
+  .noahcuadradocomhomepage1-text {
+    font-size: 41px;
+    margin-left: var(--dl-space-space-unit);
+  }
+  .noahcuadradocomhomepage1-text08 {
+    margin-right: var(--dl-space-space-unit);
+  }
+  .noahcuadradocomhomepage1-mygames {
+    width: auto;
+  }
+  .noahcuadradocomhomepage1-group9 {
+    width: auto;
+  }
+  .noahcuadradocomhomepage1-footer {
+    width: 100%;
+  }
+}
+@media(max-width: 991px) {
+  .noahcuadradocomhomepage1-noahcuadradocomhomepage1 {
+    width: auto;
+  }
 }
