@@ -1,0 +1,874 @@
+.noahcuadradocomhomepage1-container {
+  min-height: 100vh;
+}
+.noahcuadradocomhomepage1-noahcuadradocomhomepage1 {
+  width: 100%;
+  height: 2661px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(61, 61, 61, 1);
+}
+.noahcuadradocomhomepage1-topbar {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  display: flex;
+  padding: 19px 0;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(79, 79, 79, 1);
+}
+.noahcuadradocomhomepage1-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Bebas Neue;
+  font-weight: 400;
+  line-height: 140.19999504089355%;
+  font-stretch: normal;
+  margin-right: 301px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-frame6 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.noahcuadradocomhomepage1-text02 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 64px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-text04 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 64px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-text06 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 64px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-text08 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-imcontainer {
+  top: 148px;
+  left: 445px;
+  width: 550px;
+  display: flex;
+  padding: 0 24px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: center;
+}
+.noahcuadradocomhomepage1-text10 {
+  color: rgba(255, 255, 255, 1);
+  width: 111px;
+  height: auto;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 10px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-text12 {
+  color: rgba(255, 255, 255, 1);
+  width: 264px;
+  height: auto;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-image1 {
+  top: 237px;
+  left: 445px;
+  width: 545px;
+  height: 371px;
+  position: absolute;
+  border-color: transparent;
+}
+.noahcuadradocomhomepage1-mygames {
+  top: 698px;
+  left: 160px;
+  width: 1116px;
+  height: 596px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.noahcuadradocomhomepage1-frame7 {
+  top: 0px;
+  left: 0px;
+  width: 496px;
+  height: 56px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: center;
+}
+.noahcuadradocomhomepage1-text14 {
+  color: rgba(255, 255, 255, 1);
+  width: 489px;
+  height: auto;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-text15 {
+  font-weight: 700;
+}
+.noahcuadradocomhomepage1-group9 {
+  top: 100px;
+  left: 4px;
+  width: 1112px;
+  height: 496px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.noahcuadradocomhomepage1-frame10 {
+  top: 0px;
+  left: 0px;
+  display: flex;
+  padding: 24px;
+  position: absolute;
+  box-shadow: 0px 7px 22px 8px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(79, 79, 79, 1);
+}
+.noahcuadradocomhomepage1-rectangle33 {
+  width: 296px;
+  height: 240px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+.noahcuadradocomhomepage1-frame9 {
+  width: 302px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.noahcuadradocomhomepage1-text17 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 24px;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-text19 {
+  color: rgba(255, 255, 255, 1);
+  width: 311px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-frame11 {
+  top: 0px;
+  left: 381px;
+  display: flex;
+  padding: 24px;
+  position: absolute;
+  box-shadow: 0px 7px 22px 8px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(79, 79, 79, 1);
+}
+.noahcuadradocomhomepage1-rectangle331 {
+  width: 296px;
+  height: 240px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+.noahcuadradocomhomepage1-frame91 {
+  width: 302px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.noahcuadradocomhomepage1-text21 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 24px;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-text23 {
+  color: rgba(255, 255, 255, 1);
+  width: 311px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-frame12 {
+  top: 0px;
+  left: 762px;
+  display: flex;
+  padding: 24px;
+  position: absolute;
+  box-shadow: 0px 7px 22px 8px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(79, 79, 79, 1);
+}
+.noahcuadradocomhomepage1-rectangle332 {
+  width: 296px;
+  height: 240px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+.noahcuadradocomhomepage1-frame92 {
+  width: 302px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.noahcuadradocomhomepage1-text25 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 24px;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-text27 {
+  color: rgba(255, 255, 255, 1);
+  width: 311px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-mydesigns {
+  top: 1428px;
+  left: 165px;
+  width: 1110px;
+  height: 596px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.noahcuadradocomhomepage1-frame71 {
+  top: 0px;
+  left: 0px;
+  width: 513px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: center;
+}
+.noahcuadradocomhomepage1-text29 {
+  color: rgba(255, 255, 255, 1);
+  width: 522px;
+  height: auto;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-text30 {
+  font-weight: 700;
+}
+.noahcuadradocomhomepage1-frame14 {
+  top: 100px;
+  left: 0px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  justify-content: center;
+}
+.noahcuadradocomhomepage1-frame101 {
+  height: 496px;
+  display: flex;
+  padding: 24px;
+  position: relative;
+  box-shadow: 0px 7px 22px 8px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(79, 79, 79, 1);
+}
+.noahcuadradocomhomepage1-rectangle333 {
+  width: 296px;
+  height: 240px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+.noahcuadradocomhomepage1-frame93 {
+  width: 302px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.noahcuadradocomhomepage1-text32 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 24px;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-text34 {
+  color: rgba(255, 255, 255, 1);
+  width: 311px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-frame13 {
+  height: 496px;
+  display: flex;
+  padding: 24px;
+  position: relative;
+  box-shadow: 0px 7px 22px 8px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(79, 79, 79, 1);
+}
+.noahcuadradocomhomepage1-rectangle334 {
+  width: 296px;
+  height: 240px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+.noahcuadradocomhomepage1-frame94 {
+  width: 302px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.noahcuadradocomhomepage1-text36 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 24px;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-text38 {
+  color: rgba(255, 255, 255, 1);
+  width: 311px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-frame121 {
+  display: flex;
+  padding: 24px;
+  position: relative;
+  box-shadow: 0px 7px 22px 8px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(79, 79, 79, 1);
+}
+.noahcuadradocomhomepage1-rectangle335 {
+  width: 296px;
+  height: 240px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+.noahcuadradocomhomepage1-frame95 {
+  width: 302px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.noahcuadradocomhomepage1-text40 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 24px;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-text42 {
+  color: rgba(255, 255, 255, 1);
+  width: 311px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-footer {
+  top: 2202px;
+  left: 0px;
+  width: 1440px;
+  height: 459px;
+  display: flex;
+  padding: 40px 0;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(79, 79, 79, 1);
+}
+.noahcuadradocomhomepage1-frame68 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 58px;
+  flex-direction: column;
+}
+.noahcuadradocomhomepage1-text44 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Bebas Neue;
+  font-weight: 400;
+  line-height: 140.19999504089355%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0px;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-group67 {
+  width: 456px;
+  height: 109.53289794921875px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.noahcuadradocomhomepage1-group66 {
+  top: 0px;
+  left: 0px;
+  width: 456px;
+  height: 53.94926452636719px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.noahcuadradocomhomepage1-text46 {
+  color: rgba(204, 204, 204, 1);
+  width: 456px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-frame67 {
+  top: 65.94921875px;
+  left: 88px;
+  width: 280px;
+  height: 44px;
+  position: absolute;
+}
+.noahcuadradocomhomepage1-pages {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 58px;
+}
+.noahcuadradocomhomepage1-text48 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 64px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-text50 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 64px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-text52 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 64px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-text54 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-group65 {
+  width: 1166px;
+  height: 66.05078125px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.noahcuadradocomhomepage1-text56 {
+  top: 36.05078125px;
+  left: 440px;
+  color: rgba(204, 204, 204, 1);
+  width: 286px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.noahcuadradocomhomepage1-rectangle34 {
+  top: 1px;
+  left: 0px;
+  width: 1166px;
+  height: 1px;
+  position: absolute;
+  border-color: transparent;
+}
